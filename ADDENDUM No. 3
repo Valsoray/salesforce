@@ -1,0 +1,1094 @@
+  	<apex:page showHeader="false" contentType="application/msword" standardController="Contract">
+			<apex:outputPanel layout="block" style="text-align: justify; line-height: 1; font-family: 'Courier New'; font-size: 10pt;">
+
+
+		<table>
+			<tr>
+				<td>ДОПОЛНЕНИЕ №3
+		к Договору №___ от «___»___________ 20__ г.
+
+		РОССИЙСКИЕ ВИЗЫ ДЛЯ ИНОСТРАННЫХ ГРАЖДАН
+		г. Москва «___»___________ 20__ г.
+
+		</td><td>ADDENDUM No. 3
+		to Agreement No. ___ Dated ______________ 20__ 
+
+		RUSSIAN VISAS FOR FOREIGN CITIZENS
+
+		Moscow ______________ 20__ 
+
+		</td>
+			</tr>
+
+
+			<tr>
+				<td>ЗАО «ЭйТиЭйч», далее именуемое «Общество», в лице Генерального директора Ворониной Т. А., действующей на основании Устава, с одной стороны, и
+
+
+		</td><td>CJSC ATH hereinafter referred to as the "Company" represented by Taisiya Voronina, General Director, acting on the basis of the Charter, on the one part, and
+		</td>
+			</tr>
+
+
+
+
+			<tr>
+				<td>[_____], далее именуемое «Клиент», в лице [_____], действующего на основании [_____], с другой стороны, 
+		</td><td>[_____] hereinafter referred to as the "Customer" represented by [_____], acting on the basis of [_____], on the other part, </td>
+			</tr>
+
+
+
+			<tr>
+				<td>в дальнейшем совместно именуемые «Стороны»,заключили настоящее Дополнение к Договору о нижеследующем:</td>
+				<td>hereinafter jointly called “the Parties” have concluded the present Addendum to complete Agreement with the following:</td>
+			</tr>
+
+
+
+			<tr>
+				<td>1. ПРЕДМЕТ  1.1.	Действуя на основании Заказов Клиента Общество:</td>
+				<td>1. SUBJECT MATTER 1.1.	Acting on the basis of the Orders the Company shall:</td>
+			</tr>
+			<tr>
+				<td>1.1.1. оказывает консультационные услуги необходимые для  постановки Клиента на учет в уполномоченных государственных органах (далее – «Уполномоченные государственные органы») в качестве организации, приглашающей иностранных граждан, включая оказание услуг по [(а) подготовке документов для получения регистрационных номеров, последующей проверке таких документов и помощь в получении регистрационных номеров в Уполномоченных государственных органах, (б) перерегистрация Клиента в Уполномоченных государственных органах;
+		</td><td>1.1.1.	provide the services for registering the Customer with authorise state bodies (the "Authorised State Bodies") as an organisation inviting foreign citizens, including provision of the services relating to (a) preparation of documents for obtaining registration numbers, subsequent check of such documents and assistance in obtaining registration numbers from the Authorised State Bodies; and (b) re-registration of the Customer with the Authorised State Bodies; 
+		</td>
+		</tr>
+		<tr>
+		<td>
+		оказывает консультационные услуги необходимые для   оформления приглашений на въезд в РФ (далее – «Приглашение») для получения российских виз иностранными гражданами (сотрудниками Клиента и иными указанными Клиентом лицами, далее именуемыми «Лица, получающие визу») в Уполномоченных государственных органах и последующем уведомлении о постановке на миграционный учет в Уполномоченных государственных органах. </td>
+
+		<td>1.1.2.provide the services for execution of invitations for entry into the Russian Federation (the "Invitation") for obtaining Russian visas by foreign citizens, Customer's employees and other persons specified by the Customer (the "Persons Obtaining a Visa") with the Authorised State Bodies and for subsequent notification of the visa with the Authorised State Bodies </td>
+		</tr>
+		<tr>
+		<td>1.2.Услуги, оказываемые Обществом на основании настоящего Дополнения, включают предоставление Клиенту необходимой информации об условиях получения российской визы в консульстве Российской Федерации за рубежом,  хранение копий документов Лиц, получающих визу, до выполнения или отмены Заказа.</td>
+
+		<td>1.2.The services provided by the Company on the basis of this Addendum shall include the provision of the Customer with the necessary information concerning the conditions of obtaining a Russian visa at a consulate of the Russian Federation abroad and keeping copies of the documents of the Persons Obtaining a Visa until the Order is fulfilled or cancelled</td>
+		</tr>
+		<tr>
+		<td>
+		2. ОБЯЗАННОСТИ СТОРОН 
+		2.1.	При оказании услуг Общество обязуется:
+		</td>
+		<td>2. OBLIGATIONS OF THE PARTIES
+		2.1.	In providing the services, the Company shall:
+		</td>
+		</tr>
+		<tr>
+		<td>
+		2.1.1.	своевременно подавать документы на оформление приглашений в Уполномоченные государственные органы. Подача документов осуществляется на следующий день после получения Обществом от Клиента всех необходимых документов, если документы получены в офисе Общества до 15.00 текущего дня;</td>
+		<td> 2.1.1.	submit documents for execution of invitations to the Authorised State Bodies in a timely manner. Documents shall be submitted on the next day after the Company receives all the necessary documents from the Customer if the documents are received at the Company's office before 3:00 p.m. of the current day; </td>
+		</tr>
+		<tr> <td> 2.1.2.немедленно извещать Клиента обо всех изменениях и обстоятельствах, препятствующих выполнению Заказа; </td>
+		<td>2.1.2.	notify the Customer immediately of all changes and circumstances preventing an Order from being fulfilled; and </td>
+		</tr>
+		<tr>
+		<td> 2.2. В соответствии с настоящим Дополнением
+					 Клиент обязуется:</td>
+		<td>2.2.	Pursuant to this Addendum, the Customer shall:</td>
+		</tr>
+		<tr>
+		<td> 2.2.1.	при направлении Заказа полно и достоверно указывать запрошенную информацию;</td>
+		<td>2.2.1.	when sending an Order, specify the requested information fully and correctly;</td>
+		</tr>
+		<tr>
+		<td>
+		2.2.2.	по запросу Общества выдавать сотрудникам Общества нотариально удостоверенные доверенности на представление интересов Клиента в Уполномоченных государственных органах;</td>
+		<td> 2.2.2.	at the Company's request, issue notarised powers of attorney to the Company's employees for representation of the Customer's interests at the Authorised State Bodies; </td>
+		</tr>
+		<tr>
+		<td>2.2.3.	предоставить Обществу копии и/или оригиналы паспортов Лиц, получающих визу, а также иных документов, которые используются для подготовки документов, необходимых для оформления</td>
+		<td>2.2.3.	provide the Company with copies and/or originals of passports of the Persons Obtaining a Visa as well as other documents that are used for preparation of the documents necessary for execution; and </td></tr>
+		<tr><td>
+		2.2.4.	своевременно производить оплату оказанных Обществом услуг.</td>
+		<td>2.2.4.	pay for the services provided by the Company in a timely manner.</td>
+		</tr>
+		<tr>
+		<td> 3. СТОИМОСТЬ УСЛУГ И ПОРЯДОК ОПЛАТЫ 
+
+		3.1.	Стоимость услуг, указанных в пункте 1.1 настоящего Дополнения, приведена в таблицах ниже. Стоимость консультационных услуг указана в условных единицах без учёта НДС (18 %) </td>
+		<td> 3. VALUE OF SERVICES AND PAYMENT PROCEDURE 
+		3.1.	The value of the services specified in Clause 1.1 of this Addendum is set forth in the Tables below Prices are in conventional units.  VAT (18%) is not included
+		 </td>
+		</tr>
+		</table>
+		<p>
+		Москва / Moscow</p>
+		<p> Стоимость консультационных услуг и услуг по подготовке документов, необходимых для получения Приглашения для оформления российских виз в УФМС по г. Москве. 
+		Cost of consulting services and services on preparing documents to be necessary for receiving an Invitation to draw up Russian visas in FMSD of Moscow.  
+		 </p>
+		<table border="1">
+		<tbody>
+		<tr>
+		 <td width="15%" colspan="2">Срок / term</td>
+		<td width="15%">Эксклюзив (3 календарных дня) / Exclusive (3 calendar days)</td>
+		<td width="15%"> Супер Экспресс (5календарных дней) / Super Express (5 calendar days)</td>
+		<td width="15%"> Экспресс (7календарных дней) / Express (7 calendar days)</td>
+		<td width="15%"> Фаст (10 календарных дней) / Fast (10 calendar days)</td>
+		<td width="15%"> Нормал (16 календарных дней) / Normal (16 calendar days)</td>
+		</tr>
+		<tr>
+		<td width="15%" rowspan="2">Однократные приглашения /
+		Single-entry invitations</td>
+		<td width="15%">1 (Один) месяц / 1 (One) month</td>
+		<td width="15%">По запросу/On demand</td>
+		<td width="15%">По запросу/On demand</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		</tr>
+		<tr>
+		<td width="15%">3 (Три) месяца / 3 (Three) months</td>
+		<td width="15%">По запросу/On demand</td>
+		<td width="15%">По запросу/On demand</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		</tr>
+		<tr>
+		<td width="15%" rowspan="2">
+		Двукратные приглашения /
+		Double-entry invitations </td>
+		<td width="15%">1 (Один) месяц / 1 (One) month</td>
+		<td width="15%"> По запросу/On demand </td>
+		<td width="15%">По запросу/On demand </td>
+		<td></td>
+		<td></td>
+		<td></td>
+		</tr>
+		<tr>
+		<td width="15%">3 (Три) месяца / 3 (Three) months</td>
+		<td width="15%">По запросу/On demand</td>
+		<td width="15%">По запросу/On demand</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		</tr>
+		</tbody>
+		</table>
+		<br>
+		<table border="1">
+		<tbody>
+		<tr>
+		<td width="15%" colspan="2">Срок / period</td>
+		<td width="15%">Эксклюзив (10 календарных дней) / Exclusive (10 calendar days)</td>
+		<td width="15%">Экспресс
+		14 календарных  дней / Express - 14 calendar days
+		</td>
+		<td width="15%"> Нормал
+		21 календарных  дней / Normal 21 calendar days </td>
+		</tr>
+		<tr>
+		<td width="15%" rowspan="2">Многократные приглашения / multi-entry invitations </td>
+		<td width="15%">6 (Шесть) месяцев / 6 (Six) months / multi-entry invitations </td>
+		<td width="15%">По запросу/On demand </td>
+		<td></td>
+		<td></td>
+		</tr>
+			<tr>
+				<td width="15%">12 (Двенадцать) месяцев / 12 (Twelve) months</td>
+				<td width="15%">По запросу/On demand</td>
+				<td></td>
+				<td></td>
+			</tr>
+		</tbody>
+		</table>
+		<p> Стоимость консультационных услуг по оформлению приглашения для отдельных категорий граждан в УФМС по г. Москве / Cost of consulting services Invitation for Migration risky citizens, additional fee in FMSD of Moscow city: </p>
+		<table border="1">
+		<tbody>
+			<tr>
+				<td width="15%">Консультационные услуги по оформлению приглашения для отдельных категорий граждан в УФМС по г. Москве / consulting services Invitation for Migration risky citizens, additional fee in FMSD of Moscow city:</td>
+				<td width="15%">Стоимость / cost</td>
+			</tr>
+			<tr>
+				<td width="15%">Взымается дополнительно к услуге по оформлению приглашения /Additional cost to the service on the issuance of the invitation</td> 
+				<td width="15%"> 50 у.е.</td> 
+			</tr>
+		</tbody>
+		</table>
+
+		<p>Стоимость консультационных услуг и услуг по подготовке необходимых документов для постановки на миграционный учет / Cost of consulting services and services on preparing documents to be necessary for visa notification:</p>
+
+
+		<table border="1">
+		<tbody>
+		<tr>
+		<td width="15%">консультационные услуги и услуги по подготовке необходимых документов для / consulting services and services on preparing documents to be necessary for:</td>
+		<td width="15%">Сроки / terms </td>
+		<td width="15%">Стоимость / cost </td>
+		</tr>
+		<td width="15%">Уведомление о постановке на миграционный учет в УФМС России по г. Москве при обращении в течение 7 (семи) рабочих дней после пересечения границы /
+		Visa notification in FMSD of Moscow city when applying within 7 (seven) working days after crossing the frontier </td>
+		<td width="15%">2 календарных дня / 2 calendar days </td>
+		<td></td>
+		<tr>
+		</td>
+		<td width="15%">
+		 Уведомление о постановке на миграционный учет в ОУФМС России по г. Москве при обращении в течение 7 (семи) рабочих дней после пересечения границы /
+		Visa notification in OUFMS of Moscow city when applying within 7 (seven) working days after crossing the frontier
+		</td>
+		<td width="15%">2 календарных дня / 2 calendar days </td>
+		<td></td>
+		<tr>
+		<td width="15%">
+		Уведомление о постановке на миграционный учет в ОУФМС России по г. Москве через почтовое отделение связи при обращении в течение 7 (семи) рабочих дней после пересечения границы /
+		Visa notification in OUFMS of Moscow city via POST when applying within 7 (seven) working days after crossing the frontier
+		</td>
+		<td width="15%">
+		2 календарных дня / 2 calendar days </td>
+		<td></td>
+		</tr>
+		</tbody>
+		</table>
+
+		<p>Стоимость консультационных услуг по регистрации компании  в УФМС по г. Москве. /
+		Cost of consulting services of company registration at FMSD of Moscow city. </p>
+
+
+		<table border="1">
+		<tbody>
+		<tr>
+		<td width="15%">
+		консультационные услуги и услуги по подготовке необходимых документов для /
+		consulting services and services on preparing documents to be necessary for:
+		</td>
+		<td width="15%">
+		Сроки / terms </td>
+		<td width="15%">
+		Стоимость / cost</td>
+		</tr>
+		<tr>
+		<td width="15%" rowspan="2">
+		Регистрация или перерегистрация компании в УФМС России по г. Москве /Company Registration or Re-registration in FMSD of Moscow city (получение регистрационных номеров в УФМС России по г. Москве /
+		obtaining registration numbers at FMSD of Moscow city)</td>
+		<td width="15%"> «Нормал»/Normal
+		10 рабочих дней / working days </td>
+		<td></td>
+		</tr>
+		<tr>
+		<td width="15%">Экспресс»/Express
+		3-5 рабочих дня / working days </td>
+		<td></td>
+		</tr>
+		</tbody>
+		</table>
+
+
+		<p> Стоимость консультационных услуг и услуг по подготовке документов, необходимых для получения Приглашения для оформления рабочих российских виз  в УФМС по г. Москве). /  
+		Price of consulting services and services in preparation of documents necessary for
+		obtaining Invitation to issue Russian working visas in FMSD of Moscow.  </p>
+
+
+		<table border="1">
+		<tbody>
+		<tr>
+		<td width="15%" colspan="2">Срок / Terms
+		 </td>
+		<td width="15%">Эксклюзив (3 календарных дня) / Exclusive (3 calendar days)</td>
+		<td width="15%">Супер Экспресс (5календарных дней) / Super Express (5 calendar days)</td>
+		<td width="15%">Экспресс (7календарных дней) / Express (7 calendar days)</td>
+		<td width="15%">Фаст (10 календарных дней) / Fast (10 calendar days)</td>
+		<td width="15%">Нормал (от 16 до 28 календарных дней) / Normal (from 16 till 28  calendar days)</td>
+		</tr>
+		<tr>
+		<td width="15%">Однократное рабочее приглашение / Single-entry work invitation</td>
+		<td width="15%">3 (Три) месяца / 3 (Three) month</td>
+		<td width="15%">По запросу/On demand</td>
+		<td width="15%">По запросу/On demand</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		</tr>
+		</tbody>
+		</table>
+
+		<br>
+		<table border="1">
+		<tbody>
+		<tr>
+		<td width="15%">
+		Оформление многократной рабочей визы или продление рабочей визы /Primary execution or Prolongation of the multi-entry work visa
+		</td>
+		</tr>
+		<tr>
+		<td width="15%  rowspan="4">
+		Оформление или продление многократной рабочей визы / Multi-entry work visa primary execution or prolongation</td>
+		<td width="15%">1 рабочий  день/1 work day</td>
+		<td width="15%">По запросу/On demand </td>
+		</tr>
+		<tr>
+		<td width="15%">3 рабочих  дня/3 work days </td>
+		<td></td>
+		</tr>
+		<tr>
+		<td width="15%"> 5 рабочих дней/5 work days </td>
+		<td></td>
+		</tr>
+		<tr>
+		<td width="15%">12-14 рабочих дней/12-14 work days </td>
+		<td></td>
+
+		</tr>
+		</tbody>
+		</table>
+
+		<p>Стоимость консультационных услуг и услуг по подготовке документов, необходимых для отмены, ускорения и изменения заказа в УФМС России по г. Москве. /
+		Cost of consulting services and services on preparing documents to be necessary for cancellation, acceleration and changing the order in FMSD of Moscow. </p>
+
+
+		<table border="1">
+		<tbody>
+		<tr>
+		<td width="15%">консультационные услуги и услуги по подготовке необходимых документов для / consulting services and services on preparing documents to be necessary for:</td>
+		<td width="15%">Срок / Term </td>
+		<td width="15%">Стоимость / Cost </td>
+		</tr>
+		<td width="15%">любого изменения/отмены заказа /
+		any change/cancellation of the order
+		 </td>
+		<td width="15%">до обращения в государственные органы (УФМС России по г. Москве)/ before application to the state bodies (FMSD of Moscow city)</td>
+		<td width="15%">1225</td>
+
+		</tr>
+		<tr>
+		</td>
+		<td width="15%">
+		отмены заказа / cancellation of the order
+		</td>
+		<td width="15%">после обращения в государственные органы (УФМС России по г. Москве) / after application to the state bodies  (FMSD of Moscow city)</td>
+		<td width="15%">100%</td>
+		<tr>
+		<td width="15%">
+		Изменение срочности оформления приглашения на однократное/двукратное/многократное приглашение / Changing urgency of obtaining single/double/multi-entry invitations 
+		</td>
+		<td width="15%">
+		До обращения в государственные органы (УФМС России по г. Москве)/before application to state bodies (FMSD of Moscow city) </td>
+		<td width="15%">Разница между ценой продукта</td>
+
+
+		</tr>
+		<tr>
+		<td width="15%">
+		Изменение срочности оформления приглашения
+		на однократное, двукратное, многократное  приглашение с получением  его в определенный день / Changing urgency of obtaining single-entry,  double-entry, multi-entry invitations with collecting it on the fixed day
+
+		возможность оказания услуги подтверждается Обществом по запросу Клиента /
+		the possibility of providing services confirmed by the Company on the Customer's request </td>
+		<td width="15%">
+
+		После обращения в УФМС России по г. Москве / after application to FMSD of Moscow city </td>
+
+		<td width="15%">
+		50 у.е. +
+		Разница между ценой продукта </td>
+		</tr>
+		<tr>
+		<td width="15%">
+		Оформление дубликата приглашения в УФМС по г. Москве / Issuing invitation duplicate in FMSD of Moscow
+
+		возможность оказания услуги подтверждается Обществом по запросу Клиента /
+		the possibility of providing services confirmed by the Company on the Customer's request </td>
+
+		<td width="15%">По запросу / Upon request </td>
+		<td width="15%">50% от стоимости первичного продукта + 50 у.е </td>
+		</tr>
+		</tbody>
+		</table>
+
+
+		<p>Стоимость консультационных услуг и услуг по подготовке документов, необходимых для получения телексных приглашений (МИД РФ)/ Cost of consulting services and services on preparing documents to be necessary for receiving telex Invitations (MFA RF).</p>
+
+		<table border="1">
+		<tbody>
+		<tr>
+		<td width="15%" colspan="2">
+		Срок оформления/term </td>
+		<td width="15%">
+		2 рабочий день/ 2 working day </td>
+		</tr>
+		<tr>
+		<td width="15%" rowspan="2">
+		Однократные приглашения/
+		 Single-entry invitations</td>
+		<td width="15%"> 1 (Один) месяц / 
+		1 (One) month </td>
+		<td></td>
+		</tr>
+		<tr>
+
+
+		<td width="15%">
+		3 (Три) месяца/ 
+		3 (Three) months
+		</td>
+		<td></td>
+		</tr>
+		<tr>
+		<td width="15%" rowspan="2">
+		Двукратные приглашения/ 
+		Double-entry invitations </td>
+		<td width="15%">1 (Один) месяц / 
+		1 (One) month </td>
+		<td></td>
+		</tr>
+		<tr>
+		<td width="15%">
+		3 (Три) месяца /
+		3 (Three) months
+		</td>
+		<td></td>
+		</tr>
+
+		</tbody>
+		</table>
+
+		<br>
+
+		<table border="1">
+		<tbody>
+		<tr>
+		<td width="15%" colspan="2">
+		срок оформления / term* </td>
+		<td width="15%">
+		13 рабочих дней /
+		13 working days
+		 </td>
+		</tr>
+		<tr>
+		<td width="15%" rowspan="2">
+		многократные приглашения /
+		multi-entry invitations
+		</td>
+		<td width="15%"> 6 (шесть) месяцев /
+		6 (six) months
+		 </td>
+		<td></td>
+		</tr>
+		<tr>
+
+
+		<td width="15%">
+		12 (двенадцать) месяцев /
+		12 (twelve) months
+
+
+		</td>
+		<td></td>
+		</tr>
+		<tr>
+		</tbody>
+		</table>
+
+
+
+		<p>Стоимость консультационных услуг и услуг по подготовке документов, необходимых для получения телексных приглашений граждан из развивающихся стран (МИД РФ) /
+		Cost of consulting services and services on preparing documents to be necessary for
+		receiving telex Invitations for Migration risky citizens (MFA RF).
+		</p>
+
+
+		<table border="1">
+		<tbody>
+		<tr>
+		<td width="15%" colspan="2">
+		Срок оформления/term*  </td>
+		<td width="15%">
+		2 рабочий день/ 2 working day </td>
+		</tr>
+		<tr>
+		<td width="15%" rowspan="2">
+		Однократные приглашения/
+		 Single-entry invitations</td>
+		<td width="15%"> 1 (Один) месяц / 
+		1 (One) month </td>
+		<td></td>
+		</tr>
+		<tr>
+
+
+		<td width="15%">
+		3 (Три) месяца/ 
+		3 (Three) months
+		</td>
+		<td></td>
+		</tr>
+		<tr>
+		<td width="15%" rowspan="2">
+		Двукратные приглашения/ 
+		Double-entry invitations </td>
+		<td width="15%">1 (Один) месяц / 
+		1 (One) month </td>
+		<td></td>
+		</tr>
+		<tr>
+		<td width="15%">
+		3 (Три) месяца /
+		3 (Three) months
+		</td>
+		<td></td>
+		</tr>
+		<tr>
+		<td width="15%" colspan="2">
+		срок оформления / term* </td>
+		<td width="15%">
+		13 рабочих дней /
+		13 working days
+		 </td>
+		</tr>
+		<tr>
+		<td width="15%" rowspan="2">
+		многократные приглашения /
+		multi-entry invitations
+		</td>
+		<td width="15%"> 6 (шесть) месяцев /
+		6 (six) months
+		 </td>
+		<td></td>
+		</tr>
+		<tr>
+
+
+		<td width="15%">
+		12 (двенадцать) месяцев /
+		12 (twelve) months
+
+
+		</td>
+		<td></td>
+		</tr>
+		<tr>
+
+		</tbody>
+		</table>
+
+		<p>* - срок оформления телексного приглашения исчисляется со дня регистрации заявки на такое приглашение в КД МИД РФ/ the term of preparing telex invitation is calculated from the date of registration application for such an invitation in Foreign Ministry </p>
+
+		<p>Стоимость консультационных услуг и услуг по подготовке документов, необходимых для получения приглашений на бланке организации для граждан Европейского сообщества и США / Cost of consulting services and services on preparing documents to be necessary for receiving letter - invitation to the organization's letterhead for the citizens of the European Community and the United States </p>
+
+
+		<table border="1">
+		<tbody>
+		<tr>
+		<td width="15%">консультационные услуги и услуги по подготовке необходимых документов для /
+		consulting services and services on preparing documents to be necessary for:
+		</td>
+		<td width="15%">Срок / Term </td>
+		<td width="15%">Стоимость / Cost </td>
+		</tr>
+		<td width="15%">Однократные приглашения до 3 месяцев/
+		 Single-entry invitations to 3 months
+
+		 </td>
+		<td width="15%">1 рабочий день /
+		1 work day
+		</td>
+		</td></td>
+
+		</tr>
+		<tr>
+		</td>
+		<td width="15%">
+		Двукратные приглашения до 3 месяцев / 
+		Double-entry invitations to 3 months
+		</td>
+		<td width="15%">1 рабочий день /
+		1 work day
+		</td>
+		<td></td>
+		<tr>
+		<td width="15%">
+		многократные приглашения до 12 месяцев/
+		multi-entry invitations to 12 months 
+		</td>
+		<td width="15%">
+		1 рабочий день /
+		1 work day
+		</td>
+		<td></td>
+		</tr>
+		<tr>
+		<td width="15%">
+		многократные приглашения на 3 лет/
+		multi-entry invitations on 3 years**
+		</td>
+		<td width="15%"> 1 рабочий день/ 1 work day </td>
+		<td></td>
+		</tr>
+		</tbody>
+		</table>
+
+
+		<p>** Для граждан США, на бланке организации, оформляются только многократные приглашения на 3 года / For U.S. citizens on letterhead issued only multi-entry invitations to 3 </p>
+
+		<p> Стоимость консультационных услуг и услуг по подготовке документов, необходимых для получения туристических приглашений / Cost of consulting services and services on preparing documents to be necessary for receiving tourist invitation  </p>
+
+
+		<table border="1">
+		<tbody>
+		<tr>
+		<td width="15%" colspan="2">
+		срок оформления / term* </td>
+		<td width="15%">
+		1 рабочий день /
+		1 work day
+
+		 </td>
+		</tr>
+		<tr>
+		<td width="15%">
+		Однократные приглашения/
+		 Single-entry invitations
+
+		</td>
+		<td width="15%"> 1 (Один) месяц / 
+		1 (One) month
+
+		 </td>
+		<td></td>
+		</tr>
+		<tr>
+
+
+		<td width="15%">
+		Двукратные приглашения/ 
+		Double-entry invitations
+
+
+
+		</td> 
+		<td width="15%">
+		1 (Один) месяц / 
+		1 (One) month
+		</td>
+
+		<td></td>
+		</tr>
+		<tr>
+		</tbody>
+		</table>
+
+
+		<p>Стоимость консультационных услуг и услуг по подготовке документов, необходимых для получения туристических приглашений для граждан из развивающихся стран / Cost of consulting services and services on preparing documents to be necessary for receiving tourist invitation for Migration risky citizens </p>
+
+		<table border="1">
+		<tbody>
+		<tr>
+		<td width="15%" colspan="2">
+		срок оформления / term* </td>
+		<td width="15%">
+		1 рабочий день /
+		1 work day
+
+		 </td>
+		</tr>
+		<tr>
+		<td width="15%">
+		Однократные приглашения/
+		 Single-entry invitations
+
+		</td>
+		<td width="15%"> 1 (Один) месяц / 
+		1 (One) month
+
+		 </td>
+		<td></td>
+		</tr>
+		<tr>
+
+
+		<td width="15%">
+		Двукратные приглашения/ 
+		Double-entry invitations
+
+
+
+		</td> 
+		<td width="15%">
+		1 (Один) месяц / 
+		1 (One) month
+		</td>
+
+		<td></td>
+		</tr>
+		<tr>
+		</tbody>
+		</table>
+
+		<p> Стоимость консультационных услуг и услуг по подготовке документов, необходимых для уведомления о постановке на миграционный учет виз от МИД РФ. / Cost of consulting services and services on preparing documents to be necessary for Russian visas notification from MFA of RF. </p>
+
+
+		<table border="1">
+		<tbody>
+		<tr>
+		<td width="15%">
+		Консультационные услуги по оформлению приглашения для отдельных категорий граждан в УФМС по г. Москве / consulting services Invitation for Migration risky citizens, additional fee in FMSD of Moscow city:</td>
+		<td width="15%">
+		Сроки / terms
+		</td>
+		<td width="15%">
+		Cтоимость / cost
+		</td>
+		</tr>
+		<tr>
+		<td width="15%">
+		Уведомление по визам от МИД РФ при обращении в течение 7 (семи) рабочих дней после пересечения границы /
+		MFA of RF visa notification when applying within 7 (seven) working days after crossing the frontier
+
+		</td> 
+		<td width="15%"> 2 календарных дня/ 2 calendar days</td> 
+		<td> </td> 
+		</tr>
+		</tbody>
+		</table>
+
+		<p>Отмена, ускорение и изменение заказа / Cancellation, speed up and variation of order 
+		(МИД РФ/MFA RF) </p>
+
+		<table border="1">
+		<tbody>
+		<tr>
+		<td width="15%">
+		Услуги / services</td>
+		<td width="15%">
+		Стоимость / cost
+		</td>
+		</tr>
+		<tr>
+		<td width="15%">
+		отмена заказа на любое приглашение до подачи документов в государственные органы / cancellation of order for any visa prior to submission the documents to the state bodies
+		</td> 
+		<td width="15%"> 1225</td> 
+		</tr>
+		<tr>
+		<td width="15%">Отмена заказа на любое приглашение после подачи документов в государственные органы/ cancellation of order for any visa prior to submission the documents to the state bodies </td> 
+		<td width="15%">100% </td> 
+		</tr>
+		<tr>
+		<td width="15%">
+		внесение изменений в заказ до отправки телекса (изменение срочности; кратности визы, срока её действия; изменение имени или номера паспорта в визе,) / variation of the order prior to telex is sent (variation of urgency status, term of validity, alteration of name or passport number in visa.,etc.) </td> 
+		<td width="15%">1225 </td> 
+		</tr>
+		<tr>
+		<td width="15%">
+		Пересылка номера телекса в другое консульство / readdressing telex number to another consulate section
+		</td> 
+		<td width="15%">1950 </td> 
+		</tr>
+		<tr>
+		<td width="15%">
+		Повтор телекса (3 рабочих дня) / telex resending (3 working days) </td> 
+		<td width="15%">100% </td> 
+		</tr>
+		</tbody>
+		</table>
+		 
+
+		<p>Стоимость консультационных услуг и услуг по подготовке документов, необходимых для получения Приглашения для оформления российских виз в УФМС по Московской области. /
+		Cost of consulting services and services on preparing documents to be necessary for receiving an Invitation to draw up Russian visas in FMSD of Moscow region. 
+		 </p>
+
+
+
+
+		<br>
+		</br>
+
+		<table border="1">
+		<tbody>
+		<tr>
+		<td width="15%" colspan="2">Срок / term</td>
+		<td width="15%">Экспресс (8 календарных дней) / Super Express (8 calendar days)</td>
+		<td width="15%">Фаст (10 календарных дней) / Fast (10 calendar days)
+		</td>
+		<td width="15%"> Нормал (30 календарных дней) / Normal (30 calendar days) </td>
+		</tr>
+		<tr>
+		<td width="15%" rowspan="2">Однократные приглашения /
+		Single-entry invitations
+		 </td>
+		<td width="15%">1 (Один) месяц / 1 (One) month </td>
+		<td></td>
+		<td></td>
+		<td></td>
+		</tr>
+		<tr>
+		<td width="15%">3 (Три) месяца / 3 (Three) months</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		</tr>
+		<tr>
+		<td width="15%" rowspan="2">Двукратные приглашения /
+		Double-entry invitations
+
+		 </td>
+		<td width="15%">1 (Один) месяц / 1 (One) month </td>
+		<td></td>
+		<td></td>
+		<td></td>
+		</tr>
+		<tr>
+		<td width="15%">3 (Три) месяца / 3 (Three) months</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		</tr>
+		</tbody>
+		</table> 
+
+		<br>
+		<table border="1">
+		<tbody>
+		<tr>
+		<td width="15%" colspan="2">Срок / term</td>
+		<td width="15%">Экспресс
+		16 календарных  дней / Express - 16 calendar days
+		</td>
+		<td width="15%">Нормал
+		30 календарных  дней / Normal 30 calendar days
+
+		</td>
+
+		</tr>
+		<tr>
+		<td width="15%" rowspan="2">Многократные приглашения / multi-entry invitations
+		 </td>
+		<td width="15%">6 (Шесть) месяцев / 6 (Six) months</td>
+		<td></td>
+		<td></td>
+
+		</tr>
+		<tr>
+		<td width="15%">12 (Двенадцать) месяцев / 12 (Twelve) months</td>
+		<td></td>
+		<td></td>
+
+		</tr>
+		</tbody>
+		</table>
+
+
+		<p>Стоимость консультационных услуг по регистрации компании  в УФМС РФ по Московской области. /Cost of consulting services of company registration at FMSD of RF of Moscow Area. </p>
+
+		<table border="1">
+		<tbody>
+		<tr>
+		<td width="15%">
+		консультационные услуги и услуги по подготовке необходимых документов для /
+		consulting services and services on preparing documents to be necessary for:
+
+		</td>
+		<td width="15%">
+		Сроки / terms </td>
+		<td width="15%">
+		Стоимость / cost</td>
+		</tr>
+		<tr>
+		<td width="15%" rowspan="2">
+		Регистрация или перерегистрация компании в УФМС России по Московской области /Company Registration or Re-registration in FMSD of Moscow area (получение регистрационных номеров в УФМС России по Московской области /
+		obtaining registration numbers at FMSD of Moscow area)
+		</td>
+		<td width="15%"> «Нормал»/Normal
+		До 30 календарных дней / Up to 30 calendar days
+		 </td>
+		<td></td>
+		</tr>
+		<tr>
+		<td width="15%">«Экспресс»/Express
+		3-5 рабочих дня / working days
+		 </td>
+		<td width="15%">По запросу / Upon request</td>
+		</tr>
+		</tbody>
+		</table>
+
+		<p>Стоимость консультационных услуг и услуг по подготовке документов, необходимых для получения  Приглашения для оформления рабочих российских виз в УФМС по Московской области. / Cost of consulting services and services in preparation of documents necessary for obtaining Invitation to issue Russian working visas in FMSD of Moscow Area. </p>
+
+
+		<table border="1">
+		<tbody>
+		<tr>
+		<td width="15%" colspan="2">Срок / Terms</td>
+		<td width="15%">Экспресс (8 календарных дней) / Super Express (8 calendar days)</td>
+		<td width="15%">Фаст (10 календарных дней) / Fast (10 calendar days)
+		</td>
+		<td width="15%">Нормал (30 календарных дней) / Normal (30  calendar days)</td>
+
+		</tr>
+		<tr>
+		<td width="15%">Однократные приглашения /
+		Single-entry invitations
+		 </td>
+		<td width="15%">3 (Три) месяца / 3 (Three) month </td>
+		<td></td>
+		<td></td>
+		<td></td>
+		</tr>
+		</tbody>
+		</table> 
+
+		<br>
+		</br>
+		<table border="1">
+		<tbody>
+		<tr>
+		<td width="15%"  colspan="3">
+		Оформление многократной рабочей визы или продление рабочей визы /Primary execution or Prolongation of the multi-entry work visa </td>
+		</tr>
+		<tr>
+		<td width="15%"  rowspan="4">
+		Оформление или продление многократной рабочей визы / Multi-entry work visa primary execution or prolongation </td>
+		<td width="15%">1 рабочий  день / 1 work day</td>
+		<td width="15%">По запросу/On demand </td>
+		</tr>
+		<tr>
+		<td width="15%">3 рабочих  дня / 3 work days </td>
+		<td></td>
+		</tr>
+		<tr>
+		<td width="15%">5 рабочих дней / 5 work days </td>
+		<td></td>
+		</tr>
+		<tr>
+		<td width="15%">21 рабочий дней / 21 work days </td>
+		<td></td>
+		</tr>
+		</tr>
+		</tbody>
+		</table>
+		<br>
+		</br>
+		</tbody>
+		</table>
+
+		<p>Стоимость консультационных услуг и услуг по подготовке документов, необходимых для отмены, ускорения*** и изменения заказа в УФМС РФ по Московской области. / Cost of consulting services and services on preparing documents to be necessary for cancellation, acceleration and changing the order in FMSD of Moscow Area. </p>
+
+
+		<table border="1">
+		<tbody>
+		<tr>
+		<td width="15%">
+		Консультационные услуги и услуги по подготовке необходимых документов для /
+		consulting services and services on preparing documents to be necessary for:
+
+
+		</td>
+		<td width="15%">
+		Срок / Term </td>
+		<td width="15%">
+		Стоимость / Cost</td>
+		</tr>
+		<tr>
+		<td width="15%" rowspan="2">
+		любого изменения / отмены заказа
+		</td>
+		<td width="15%"> До обращения в УФМС России по Московской области / before application to FMSD of Moscow region
+		 </td>
+		<td></td>
+		</tr>
+		<tr>
+		<td width="15%">После обращения в УФМС России по Московской области / after application to FMSD of Moscow region
+		 </td>
+		<td width="15%"></td>
+		</tr>
+		</tbody>
+		</table>
+
+		<p>*** Возможность оказания услуг по ускорению уточняется дополнительно. / The possibility of rendering the service is specified additionally.</p>
+
+		<table>
+		<tr>
+		<td>
+		•	Указанные сроки исчисляются со дня, следующего за днем подачи документов в государственные органы.</td>
+		<td>•	The said periods shall commence from the day immediately following the day of submission of documents to the state bodies.</td>
+		<tr>
+		</tr>
+		<td>
+		•	В связи с тем, что понедельник и среда является неприемным днем в УФМС России по Московской Области и среда является неприемным днем в УФМС России по г. Москве, при принятии Заказа Общество информирует Клиента о том, включается или нет среда в срок оформления Приглашения.</td>
+		<td>•	Since Monday and Wednesday is a non-business day at the FMSD of Moscow area and  Wednesday is a non-business day at the FMSD of Moscow, the Company shall, when accepting an Order, inform the Customer whether or not Wednesday is included in the period for execution of an invitation.</td>
+		</tr>
+		<tr>
+		<td>
+		•	В случае изменения Заказа возможно увеличение сроков получения учетной карточки / оформления Приглашения.</td>
+		<td>•	If an Order is changed, the deadlines for obtaining a registration card / executing an invitation can be extended.<.td>
+		</tr>
+		<tr>
+		<td>
+		•	Общество не может гарантировать, что Приглашение будет оформлено в более короткий срок.</td>
+		<td>
+		•	The Company may not warrant that the invitation will be issued within a shorter period of time.</td>
+		</tr>
+		<tr>
+		<td>
+		3.2. Оплата услуг по регистрации/перерегистрации Компании в УФМС России по г. Москве и в УФМС России по Московской области осуществляется на условиях 100% предоплаты на основании счетов Общества. Общество вправе не приступать к выполнению Заказа до получения сумм такой предварительной оплаты от Клиента. Оплата иных услуг, указанных в настоящем Дополнении, производится на основании счетов, которые выставляются Обществом по факту оказания услуг. Общество предоставляет Клиенту счет-фактуру и Акт оказанных услуг </td>
+		<td> 3.2. Payment of services for registration/re-registration of the Company in FMSD Russia in Moscow and FMSD Russia in Moscow region area is accomplished on terms of 100% prepayment on the basis of Company bills. Company has the right not to start Order execution before reception of the sums of such prepayment from the Customer. Payment of other services specified in the given Addendum is made on the basis of bills which are issued by Company on the fact of services rendering. Company provides the Customer with the invoice and a service acceptance certificate. </td>
+		</tr>
+		<tr>
+		<td>
+		3.3.	В случае если Общество понесет расходы, действуя в интересах Клиента с целью разрешения конфликтных ситуаций, возникших у Клиента с органами государственной власти РФ в связи с нарушением визового режима РФ, Клиент возмещает Обществу такие расходы, если их размер был предварительно согласован Сторонами.</td>
+		<td>3.3.	If the Company incurs expenses, acting in the Customer's interest, to resolve conflict situations that the Customer has with the bodies of state power of the Russian Federation in connection with a violation of the visa regime of the Russian Federation, the Customer shall reimburse the Company for such expenses if their amount has been preliminarily agreed upon by the Parties.</td>
+		</tr>
+		<tr>
+		<td>
+		4. ОТВЕТСТВЕННОСТЬ</td>
+		<td>4. LIABILITIES</td>
+		</tr>
+		<tr>
+		<td>
+		4.1.	В случае если Клиент не получает в согласованный Сторонами срок подтверждение, необходимое для оформления российской визы, в связи с некачественным и/или несвоевременным оказанием услуг Обществом, ответственность Общества перед Клиентом ограничивается обязанностью по возврату 40 (Сорока) % стоимости некачественно и/или несвоевременно оказанной услуги.</td>
+		<td>
+		4.1.	In the event that the Customer fails to obtain within a period of time agreed upon by the Parties a confirmation necessary for issue of a Russian visa in connection with non-quality and/or untimely provision of the services by the Company, the Company's liability to the Customer shall be limited to the obligation to refund forty (40) percent of the value of the service provided in a non-quality and/or untimely manner.</td>
+		</tr>
+		<tr>
+		<td>
+		5. ПРОЧИЕ ПОЛОЖЕНИЯ</td>
+		<td>5. MISCELLANEOUS </td>
+		</tr>
+		<tr>
+		 <td>
+		5.1. 	В соответствии с пп.7 п.1 ст.2 Федерального закона от 18.07.2006 №109-ФЗ "О миграционном учете иностранных граждан и лиц без гражданства в РФ" Клиент является принимающей стороной в отношении граждан, по которым Общество оказывало консультационные услуги по вопросам получения приглашений и виз по договору, и несет все возможные обязательства установленные действующим законодательством по миграционному учету в РФ.
+		Клиент защищает, ограждает и освобождает Общество от ответственности перед каким бы то ни было компетентным органом и гарантирует ей возмещение ущерба в связи с невыполнением Клиентом или вышеуказанными гражданами каких-либо обязанностей по миграционному учету </td>
+		  <td>5.1. 	In accordance with p. 7.1, Article 2 of the Federal Law No. 109-FZ On Migration Control of Foreign Citizens and Stateless Persons in the Russian Federation dated 18.07.2006, the Client acts as a recipient party for citizens who were provided with the Company's  consulting services on the issues of obtaining invitations and visas issued in accordance with contracts. The Client incurs all liabilities stipulated in the RF migration legislation.
+		The Client shall protect, defend and release the Company from any liability towards any competent body and guarantees the Company to indemnify it of any losses caused by failure of the Client or above-mentioned citizens to fulfil any migration control requirements.  
+		</td>
+		</tr>
+		<tr>
+		<td>
+		5.2.	В связи с тем, что решение о предоставлении или отказе в предоставлении определенных прав и соответствующих документов принимается уполномоченными государственными органами по своему усмотрению на основе рассмотрения представленных документов и проверки содержащихся в них сведений, Общество не несёт ответственности за требование Уполномоченных государственных органов о предоставлении дополнительных документов, за отказ Уполномоченных государственных органов в оформлении Приглашения, необходимого для получения визы, а также за отказ консульств России за рубежом в выдаче российской визы. </td>
+		 <td>5.2.	Since the decision to grant or refuse to grant certain rights and documents is made by the authorised state bodies at their discretion on the basis of considering the submitted documents and checking the information contained therein, the Company shall not be liable for the demand of the Authorised State Bodies to submit additional documents, for a refusal of the Authorised State Bodies to execute an invitation necessary for obtaining a visa as well as for a refusal of the Russian consulates abroad to issue a Russian visa. </td>
+		</tr>
+		<tr>
+		<td>
+		ПОДПИСИ СТОРОН </td>
+		<td>SIGNATURES OF THE PARTIES</td>
+		</tr>
+		<tr>
+		<td>
+		Общество/Company </td>
+		<td>Клиент/Customer</td>
+		</tr>
+		<tr>
+		<td>
+		_______________________</td>
+		<td>_______________________</td>
+		</tr>
+		<tr>
+		<td>
+		Воронина Т. А. / Taisiya Voronina</td>
+		<td>[ФИО] / [Name]</td>
+
+		</tr>
+		<tr>
+		<td>Генеральный директор / General Director</td>
+
+		<td>[Должность] / [Title]</td>
+
+
+
+		</tr>
+		 </table>
+		 
+		 
+			</apex:outputPanel>
+		</apex:page>
